@@ -1,8 +1,8 @@
 Well well well...
 
-Now that you are here, there are 2 options.
-1 - You were curious and checked my github profile
-2 - Since I use VSC you thought I synced my files with github
+Now that you are here, there are 2 options. <br />
+1 - You were curious and checked my github profile <br />
+2 - Since I use VSC you thought I synced my files with github <br />
 
 If your option is 1, have a nice day and thanks for checking out my profile.
 
